@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/another-reddit-clone-mobx/static/css/main.2c36f4e1.chunk.css",
+    "main.js": "/another-reddit-clone-mobx/static/js/main.8b092f5d.chunk.js",
+    "main.js.map": "/another-reddit-clone-mobx/static/js/main.8b092f5d.chunk.js.map",
+    "runtime-main.js": "/another-reddit-clone-mobx/static/js/runtime-main.a96346be.js",
+    "runtime-main.js.map": "/another-reddit-clone-mobx/static/js/runtime-main.a96346be.js.map",
+    "static/js/2.51842bec.chunk.js": "/another-reddit-clone-mobx/static/js/2.51842bec.chunk.js",
+    "static/js/2.51842bec.chunk.js.map": "/another-reddit-clone-mobx/static/js/2.51842bec.chunk.js.map",
+    "index.html": "/another-reddit-clone-mobx/index.html",
+    "precache-manifest.06824ed09498343798d3fc12f22b1b3e.js": "/another-reddit-clone-mobx/precache-manifest.06824ed09498343798d3fc12f22b1b3e.js",
+    "service-worker.js": "/another-reddit-clone-mobx/service-worker.js",
+    "static/css/main.2c36f4e1.chunk.css.map": "/another-reddit-clone-mobx/static/css/main.2c36f4e1.chunk.css.map",
+    "static/js/2.51842bec.chunk.js.LICENSE.txt": "/another-reddit-clone-mobx/static/js/2.51842bec.chunk.js.LICENSE.txt",
+    "static/media/comment.svg": "/another-reddit-clone-mobx/static/media/comment.4c471c20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96346be.js",
+    "static/js/2.51842bec.chunk.js",
+    "static/css/main.2c36f4e1.chunk.css",
+    "static/js/main.8b092f5d.chunk.js"
+  ]
+}
