@@ -1,0 +1,38 @@
+.selected {
+  background-color: #c3edea;
+}
+
+.post-list {
+  cursor: default;
+  padding: 20px;
+  border-bottom: 4px solid #f8f3eb;
+}
+
+.author,
+.date-created,
+.comments {
+  font-size: 0.7rem;
+}
+
+.title {
+  margin: 0;
+}
+
+.title span {
+  margin-right: 6px;
+}
+
+.comments {
+  display: flex;
+  align-items: center;
+}
+
+.comment-icon {
+  width: 10px;
+  margin-right: 4px;
+}
+
+.dismiss-button {
+  font-size: 12px;
+  padding: 4px;
+}
