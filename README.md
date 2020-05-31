@@ -1,7 +1,7 @@
 # CloneReddit
 
 This app is using the following
-<a href="https://github.com/jcerrutti/another-reddit-rest-api" target="_blank">API</a>
+<a href="https://github.com/jcerrutti/another-reddit-rest-api" target="_blank">API</a> hosted on heroku
 
 Live Demo: https://jcerrutti.github.io/another-reddit-clone-mobx/
 
