@@ -1,6 +1,9 @@
 # CloneReddit
 
-Live Demo: https://jcerrutti.github.io/clonereddit/
+This app is using the following
+<a href="https://github.com/jcerrutti/another-reddit-rest-api" target="_blank">API</a>
+
+Live Demo: https://jcerrutti.github.io/another-reddit-clone-mobx/
 
 Steps to install and run it
 
